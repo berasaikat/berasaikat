@@ -1,4 +1,6 @@
-### Hi! this is [Saikat](https://www.linkedin.com/in/bsaikat/)
+## Hi! this is [Saikat](https://www.linkedin.com/in/bsaikat/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=5F56F7&width=435&lines=Welcome+to+my+GitHub+.+.+.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/bsaikat/">
   <img align="left" alt="Saikat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,8 +17,8 @@
 I'm a student at the Chennai Mathematical Institute, currently pursuing my M.Sc. at Data Science. 
 
 ### Alma mater :mortar_board:
-- Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '24
-- Presidency University, Kolkata  [PU](https://presiuniv.ac.in/) '22
+- Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '24 (*M.Sc. Data Science*)
+- Presidency University, Kolkata  [PU](https://presiuniv.ac.in/) '22 (*B.Sc. Statistics*)
 
 ### Languages and Tools :rocket:
 
@@ -28,6 +30,20 @@ I'm a student at the Chennai Mathematical Institute, currently pursuing my M.Sc.
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png"></code>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=berasaikat&show_icons=true&hide_border=true)
 
-:pushpin: Star and Fork this [README](https://github.com/berasaikat/berasaikat) to make similar for yourself :pencil:
+<details>
+<summary><h3>📈 Stats</h3></summary>
+
+### My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berasaikat&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berasaikat&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berasaikat&theme=dracula)
+
+</details>
+
+
+### Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d5omeo262dlrnhymfuyt6zn4ba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31d5omeo262dlrnhymfuyt6zn4ba&redirect=true)
+
