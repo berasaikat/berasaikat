@@ -41,9 +41,3 @@ I'm a student at the Chennai Mathematical Institute, currently pursuing my M.Sc.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berasaikat&theme=dracula)
 
 </details>
-
-
-### Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d5omeo262dlrnhymfuyt6zn4ba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31d5omeo262dlrnhymfuyt6zn4ba&redirect=true)
-
