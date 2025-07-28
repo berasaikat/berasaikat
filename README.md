@@ -14,7 +14,7 @@
 <br></br>
 
 ### About me :grinning:
-I'm a Associate under Risk & Compliance architecture at BNY.
+I'm a Analyst under Risk & Compliance architecture at BNY.
 
 ### Alma mater :mortar_board:
 - Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '24 (*M.Sc. Data Science*)
