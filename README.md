@@ -31,13 +31,21 @@ I'm an Analyst under Model Risk Management at BNY.
 
 
 
-<details>
-<summary><h3>📈 Stats</h3></summary>
+## 📈 GitHub Stats
 
-### My Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berasaikat&theme=dracula) 
+### Profile Details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berasaikat&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berasaikat&theme=dracula) 
+### Contributions Overview
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=berasaikat&theme=dracula)
+
+### Top Languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berasaikat&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berasaikat&theme=dracula)
 
-</details>
+---
+
+## 🤝 Contributions to Other Repositories
+
+- **PR [#65099](https://github.com/pandas-dev/pandas/pull/65099):** Implemented `Index.replace()`, providing consistent value replacement for Index objects, similar to `Series.replace()`.
+---
