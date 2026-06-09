@@ -48,4 +48,5 @@ I'm an Analyst under Model Risk Management at BNY.
 ## 🤝 Contributions to Other Repositories
 
 - **PR [#65099](https://github.com/pandas-dev/pandas/pull/65099):** Implemented `Index.replace()`, providing consistent value replacement for Index objects, similar to `Series.replace()`.
+- **PR [#65473](https://github.com/pandas-dev/pandas/pull/65473):** Fixed a bug where `DateOffset` arithmetic (e.g., addition/subtraction) would fail on PyArrow-backed date columns (`date32[pyarrow]` dtype).
 ---
