@@ -47,7 +47,12 @@ I'm an Analyst under Model Risk Management at BNY.
 
 ## 🤝 Contributions to Other Repositories
 
+![Merged PRs](https://img.shields.io/badge/pandas-4%20Merged%20PRs-150458?logo=pandas)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
+
 - **PR [#65099](https://github.com/pandas-dev/pandas/pull/65099):** Implemented `Index.replace()`, providing consistent value replacement for Index objects, similar to `Series.replace()`.
 - **PR [#65164](https://github.com/pandas-dev/pandas/pull/65164):** Extended `DataFrameGroupBy.transform()` to accept list-like, dict, and `NamedFunc` arguments, matching the flexibility of `GroupBy.agg()`.
 - **PR [#65473](https://github.com/pandas-dev/pandas/pull/65473):** Fixed a bug where `DateOffset` arithmetic (e.g., addition/subtraction) would fail on PyArrow-backed date columns (`date32[pyarrow]` dtype).
+- **PR [#65212](https://github.com/pandas-dev/pandas/pull/65212):** Enhanced `Series` and `DataFrame` with `timedelta64` dtype by aligning fractional seconds in string representation for improved readability.
+
 ---
